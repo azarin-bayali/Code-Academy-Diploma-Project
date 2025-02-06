@@ -1,5 +1,5 @@
 # Code-Academy-Diploma-Project
-# Shadow Hackers: CTF Walkthroughs and Vulnerability Analyses
+# 404ensics: CTF Walkthroughs and Vulnerability Analyses
 
 ## Overview
 
